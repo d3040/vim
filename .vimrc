@@ -21,8 +21,7 @@ Plugin 'tmhedberg/SimpylFold'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
-"Plugin 'jnurmine/Zenburn'
-Plugin 'scrooloose/nerdtree'
+Plugin 'preservim/nerdtree'
 Plugin 'kien/ctrlp.vim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
@@ -91,7 +90,6 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 " highlight cursor line underneath the cursor vertically
 "set cursorcolumn
 
-" colorscheme Zenburn
 "set background=dark
 let g:everforest_background = 'soft'
 let g:everforest_better_performance = 1
@@ -105,4 +103,5 @@ let &t_EI = "\e[2 q"
 :highlight BadWhitespace ctermfg=16 ctermbg=253 guifg=#000000 guibg=#F8F8F0
 au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
-
+" start NERDTree and put the cursor back in the other window
+autocmd VimEnter * NERDTree | wincmd p

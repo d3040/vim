@@ -21,11 +21,17 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1698794152,,"q"
+|2,0,1698796406,,"q"
 :w
-|2,0,1698794151,,"w"
+|2,0,1698796348,,"w"
+:NERDTree
+|2,0,1698796053,,"NERDTree"
+:NERDTree ?
+|2,0,1698796022,,"NERDTree ?"
+:PluginInstall
+|2,0,1698795989,,"PluginInstall"
 :d
-|2,0,1698778415,,"d"
+|2,0,1698795967,,"d"
 :sp ~/OneDrive\ -\ Instituto\ Tecnologico\ y\ de\ Estudios\ Superiores\ de\ Monterrey/selectividad/manual_de_operacion/source/conf.py
 |2,0,1698776826,,"sp ~/OneDrive\\ -\\ Instituto\\ Tecnologico\\ y\\ de\\ Estudios\\ Superiores\\ de\\ Monterrey/selectividad/manual_de_operacion/source/conf.py"
 :vs ~/Google\ Drive/My\ Drive/Coordinacion/misCompromisos.md
@@ -36,8 +42,6 @@ $
 |2,0,1698768853,,"s"
 :d*2
 |2,0,1698719867,,"d*2"
-:PluginInstall
-|2,0,1698719088,,"PluginInstall"
 :W
 |2,0,1698718506,,"W"
 :q!
@@ -183,286 +187,395 @@ $
 
 # Registers:
 "0	CHAR	0
-	#. Dictámenes claros, estratégicos y dentro del tiempo establecido.
-	
-	
-|3,0,0,0,3,0,1698791053,"#. Dictámenes claros, estratégicos y dentro del tiempo establecido.","",""
-"1	LINE	0
-	    'announcement': 'Hola pana!!!!!'
-|3,0,1,1,1,0,1698778415,"    'announcement': 'Hola pana!!!!!'"
+	scrooloose/nerdtree
+|3,0,0,0,1,0,1698795842,"scrooloose/nerdtree"
+""1	LINE	0
+	" colorscheme Zenburn
+|3,1,1,1,1,0,1698795967,"\" colorscheme Zenburn"
 "2	LINE	0
+	"Plugin 'jnurmine/Zenburn'
+|3,0,2,1,1,0,1698795951,"\"Plugin 'jnurmine/Zenburn'"
+"3	LINE	0
+	
+|3,0,3,1,1,0,1698795333,""
+"4	LINE	0
+	    'announcement': 'Hola pana!!!!!'
+|3,0,4,1,1,0,1698778415,"    'announcement': 'Hola pana!!!!!'"
+"5	LINE	0
 	* Aplicación de PAAs todos los sábados  excepción de 4 puentes.
 	* 3 grupos de EUC calendarizados por semana.
 	* Un taller de familiarización en línea para profesiona y otro para preparatoria para cada aplicación de PAA.
 	* Talleres de familiazarización presenciales bajo previa solicitud (cupo min 15).
 	* Apoyo con talleres de familiarización en línea para las sedes cada 15 días (acuerdo hasta diciembre).
 	* Un comité local de admisión por cada bloque de entrega.  
-|3,0,2,1,6,0,1698776728,"* Aplicación de PAAs todos los sábados  excepción de 4 puentes.","* 3 grupos de EUC calendarizados por semana.","* Un taller de familiarización en línea para profesiona y otro para preparatoria para cada aplicación de PAA.","* Talleres de familiazarización presenciales bajo previa solicitud (cupo min 15).","* Apoyo con talleres de familiarización en línea para las sedes cada 15 días (acuerdo hasta diciembre).",>63
+|3,0,5,1,6,0,1698776728,"* Aplicación de PAAs todos los sábados  excepción de 4 puentes.","* 3 grupos de EUC calendarizados por semana.","* Un taller de familiarización en línea para profesiona y otro para preparatoria para cada aplicación de PAA.","* Talleres de familiazarización presenciales bajo previa solicitud (cupo min 15).","* Apoyo con talleres de familiarización en línea para las sedes cada 15 días (acuerdo hasta diciembre).",>63
 |<"* Un comité local de admisión por cada bloque de entrega.  "
-"3	LINE	0
+"6	LINE	0
 	#. Generar un camino de desarrollo para los integrantes del equipo para motivarlos, crecer responsabilidades y que tengan un conocimiento holístico del área de Selectividad, en específico cómo se realiza la toma de decisiones y organización de tiempo.
 	#. Estandarizar efecientemente el proceso de admisión de los candidatos, bajo los requisitos de normativa establecidos y procurar una opeación de excelencia.
-|3,0,3,1,2,0,1698776648,"#. Generar un camino de desarrollo para los integrantes del equipo para motivarlos, crecer responsabilidades y que tengan un conocimiento holístico del área de Selectividad, en específico cómo se realiza la toma de decisiones y organización de tiempo.","#. Estandarizar efecientemente el proceso de admisión de los candidatos, bajo los requisitos de normativa establecidos y procurar una opeación de excelencia."
-"4	CHAR	0
+|3,0,6,1,2,0,1698776648,"#. Generar un camino de desarrollo para los integrantes del equipo para motivarlos, crecer responsabilidades y que tengan un conocimiento holístico del área de Selectividad, en específico cómo se realiza la toma de decisiones y organización de tiempo.","#. Estandarizar efecientemente el proceso de admisión de los candidatos, bajo los requisitos de normativa establecidos y procurar una opeación de excelencia."
+"7	CHAR	0
 	 la creación de eventos extraordinarios que se necesiten llevar a cabo.
 	
-|3,0,4,0,2,0,1698775958," la creación de eventos extraordinarios que se necesiten llevar a cabo.",""
-"5	CHAR	0
+|3,0,7,0,2,0,1698775958," la creación de eventos extraordinarios que se necesiten llevar a cabo.",""
+"8	CHAR	0
 	   
 	408
 <		meta: estructurar bases de conocimiento para asegurar el crecimiento profesional dentro de la institución y lograr el 100% de objetivos estratégicos mediante la creación de "coordinaciones esepacializadas" (objetivos estratégicos del área 2022: 1. banco de reactivos, 2. Solicitantes prepaTec y BGB con EUC previo a dictamen, 3. Prep@net, y 4. innovar en la impartición de talleres de CV y ensayo.
 	
-|3,0,5,0,3,0,1698775726,"   ","		meta: estructurar bases de conocimiento para asegurar el crecimiento profesional dentro de la institución y lograr el 100% de objetivos estratégicos mediante la creación de \"coordinaciones esepacializadas\" (objetivos estratégicos del área 2022: 1. banco de reactivos, 2. Solicitantes prepaTec y BGB con EUC previo a dictamen, 3. Prep@net, y 4. innovar en la impartición de talleres de CV y ensayo.",""
-"6	LINE	0
+|3,0,8,0,3,0,1698775726,"   ","		meta: estructurar bases de conocimiento para asegurar el crecimiento profesional dentro de la institución y lograr el 100% de objetivos estratégicos mediante la creación de \"coordinaciones esepacializadas\" (objetivos estratégicos del área 2022: 1. banco de reactivos, 2. Solicitantes prepaTec y BGB con EUC previo a dictamen, 3. Prep@net, y 4. innovar en la impartición de talleres de CV y ensayo.",""
+"9	LINE	0
 	
-|3,0,6,1,1,0,1698775623,""
-"7	LINE	0
-	
-|3,0,7,1,1,0,1698775621,""
-"8	LINE	0
-	
-|3,0,8,1,1,0,1698775421,""
-"9	CHAR	0
-	Paso 1: como visualizar de forma correcta este manual
-	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-	
-	El acceso a este manual de operación se hace a través de OneDrive. Por esta razón, para poder visualizar de forma correcta este manual deberás realizar los siguientes pasos:
-	
-	#. Descargar la aplicación de OneDrive para poder acceder a los archivos desde el navegador de archivos del escritorio.
-	#. Ver la carpeta compartida desde la navegación en línea (`liga a carpeta en OneDrive <https://tecmx-my.sharepoint.com/:f:/g/personal/dclavijo_tec_mx/EtVohCXhKCNEkSLnV03svwEB7C8zHabrzJ1FKRrtNtIHDw>`_.).   
-	
-	
-|3,0,9,0,9,0,1698771088,"Paso 1: como visualizar de forma correcta este manual","^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^","","El acceso a este manual de operación se hace a través de OneDrive. Por esta razón, para poder visualizar de forma correcta este manual deberás realizar los siguientes pasos:","","#. Descargar la aplicación de OneDrive para poder acceder a los archivos desde el navegador de archivos del escritorio.",>210
-|<"#. Ver la carpeta compartida desde la navegación en línea (`liga a carpeta en OneDrive <https://tecmx-my.sharepoint.com/:f:/g/personal/dclavijo_tec_mx/EtVohCXhKCNEkSLnV03svwEB7C8zHabrzJ1FKRrtNtIHDw>`_.).   ","",""
-""-	CHAR	0
+|3,0,9,1,1,0,1698775623,""
+"-	CHAR	0
 	*
-|3,1,36,0,1,0,1698794084,"*"
+|3,0,36,0,1,0,1698794084,"*"
 
 # File marks:
-'0  1  4  ~/Documents/vim/.gitignore
-|4,48,1,4,1698794152,"~/Documents/vim/.gitignore"
-'1  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
-|4,49,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
-'2  95  0  ~/.vimrc
-|4,50,95,0,1698789944,"~/.vimrc"
-'3  96  0  ~/.vimrc
-|4,51,96,0,1698789880,"~/.vimrc"
-'4  96  0  ~/.vimrc
-|4,52,96,0,1698789880,"~/.vimrc"
-'5  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,53,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
-'6  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,54,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
-'7  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,55,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
-'8  83  0  ~/Library/CloudStorage/GoogleDrive-dclavijo@tec.mx/My Drive/Coordinacion/misCompromisos.md
-|4,56,83,0,1698776874,"~/Library/CloudStorage/GoogleDrive-dclavijo@tec.mx/My Drive/Coordinacion/misCompromisos.md"
-'9  33  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/comienza_aqui.rst
-|4,57,33,0,1698771118,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/comienza_aqui.rst"
+'0  7  0  ~/Documents/vim/NERD_tree_1
+|4,48,7,0,1698796407,"~/Documents/vim/NERD_tree_1"
+'1  107  37  ~/.vimrc
+|4,49,107,37,1698796350,"~/.vimrc"
+'2  107  37  ~/.vimrc
+|4,50,107,37,1698796350,"~/.vimrc"
+'3  2  0  ~/.vimrc
+|4,51,2,0,1698796037,"~/.vimrc"
+'4  2  0  ~/.vimrc
+|4,52,2,0,1698796037,"~/.vimrc"
+'5  2  0  ~/.vimrc
+|4,53,2,0,1698796037,"~/.vimrc"
+'6  2  0  ~/.vimrc
+|4,54,2,0,1698796037,"~/.vimrc"
+'7  93  0  ~/.vimrc
+|4,55,93,0,1698795972,"~/.vimrc"
+'8  93  0  ~/.vimrc
+|4,56,93,0,1698795972,"~/.vimrc"
+'9  93  0  ~/.vimrc
+|4,57,93,0,1698795972,"~/.vimrc"
 
 # Jumplist (newest first):
+-'  7  0  ~/Documents/vim/NERD_tree_1
+|4,39,7,0,1698796407,"~/Documents/vim/NERD_tree_1"
+-'  8  0  ~/Documents/vim/NERD_tree_1
+|4,39,8,0,1698796386,"~/Documents/vim/NERD_tree_1"
+-'  9  0  ~/Documents/vim/NERD_tree_1
+|4,39,9,0,1698796380,"~/Documents/vim/NERD_tree_1"
+-'  1  0  ~/Documents/vim/NERD_tree_1
+|4,39,1,0,1698796380,"~/Documents/vim/NERD_tree_1"
+-'  107  37  ~/.vimrc
+|4,39,107,37,1698796350,"~/.vimrc"
+-'  4  0  ~/.vimrc
+|4,39,4,0,1698796219,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1698796039,"~/.vimrc"
+-'  2  0  ~/.vimrc
+|4,39,2,0,1698796037,"~/.vimrc"
+-'  2  0  ~/.vimrc
+|4,39,2,0,1698796037,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1698795979,"~/.vimrc"
+-'  93  0  ~/.vimrc
+|4,39,93,0,1698795972,"~/.vimrc"
+-'  93  0  ~/.vimrc
+|4,39,93,0,1698795972,"~/.vimrc"
+-'  93  0  ~/.vimrc
+|4,39,93,0,1698795972,"~/.vimrc"
+-'  24  0  ~/.vimrc
+|4,39,24,0,1698795951,"~/.vimrc"
+-'  24  0  ~/.vimrc
+|4,39,24,0,1698795951,"~/.vimrc"
+-'  24  0  ~/.vimrc
+|4,39,24,0,1698795951,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1698795795,"~/.vimrc"
+-'  5  0  ~/Documents/vim/README.md
+|4,39,5,0,1698795400,"~/Documents/vim/README.md"
+-'  5  0  ~/Documents/vim/README.md
+|4,39,5,0,1698795400,"~/Documents/vim/README.md"
+-'  5  0  ~/Documents/vim/README.md
+|4,39,5,0,1698795400,"~/Documents/vim/README.md"
+-'  5  0  ~/Documents/vim/README.md
+|4,39,5,0,1698795400,"~/Documents/vim/README.md"
+-'  5  0  ~/Documents/vim/README.md
+|4,39,5,0,1698795400,"~/Documents/vim/README.md"
+-'  5  0  ~/Documents/vim/README.md
+|4,39,5,0,1698795400,"~/Documents/vim/README.md"
+-'  5  0  ~/Documents/vim/README.md
+|4,39,5,0,1698795400,"~/Documents/vim/README.md"
+-'  5  0  ~/Documents/vim/README.md
+|4,39,5,0,1698795400,"~/Documents/vim/README.md"
+-'  1  0  ~/Documents/vim/README.md
+|4,39,1,0,1698795333,"~/Documents/vim/README.md"
+-'  1  0  ~/Documents/vim/README.md
+|4,39,1,0,1698795333,"~/Documents/vim/README.md"
+-'  1  0  ~/Documents/vim/README.md
+|4,39,1,0,1698795333,"~/Documents/vim/README.md"
+-'  1  0  ~/Documents/vim/README.md
+|4,39,1,0,1698795333,"~/Documents/vim/README.md"
+-'  1  0  ~/Documents/vim/README.md
+|4,39,1,0,1698795333,"~/Documents/vim/README.md"
+-'  1  0  ~/Documents/vim/README.md
+|4,39,1,0,1698795333,"~/Documents/vim/README.md"
+-'  1  0  ~/Documents/vim/README.md
+|4,39,1,0,1698795333,"~/Documents/vim/README.md"
+-'  1  0  ~/Documents/vim/README.md
+|4,39,1,0,1698795333,"~/Documents/vim/README.md"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
+-'  1  4  ~/Documents/vim/.gitignore
+|4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
 -'  1  4  ~/Documents/vim/.gitignore
 |4,39,1,4,1698794152,"~/Documents/vim/.gitignore"
 -'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
 |4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
 -'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
 |4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  20  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,20,0,1698792163,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
 -'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
 |4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
 -'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
 |4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
--'  95  0  ~/.vimrc
-|4,39,95,0,1698789944,"~/.vimrc"
--'  95  0  ~/.vimrc
-|4,39,95,0,1698789944,"~/.vimrc"
--'  95  0  ~/.vimrc
-|4,39,95,0,1698789944,"~/.vimrc"
--'  95  0  ~/.vimrc
-|4,39,95,0,1698789944,"~/.vimrc"
--'  96  0  ~/.vimrc
-|4,39,96,0,1698789936,"~/.vimrc"
--'  96  0  ~/.vimrc
-|4,39,96,0,1698789936,"~/.vimrc"
--'  96  0  ~/.vimrc
-|4,39,96,0,1698789936,"~/.vimrc"
--'  96  0  ~/.vimrc
-|4,39,96,0,1698789936,"~/.vimrc"
--'  85  0  ~/.vimrc
-|4,39,85,0,1698789925,"~/.vimrc"
--'  85  0  ~/.vimrc
-|4,39,85,0,1698789925,"~/.vimrc"
--'  85  0  ~/.vimrc
-|4,39,85,0,1698789925,"~/.vimrc"
--'  85  0  ~/.vimrc
-|4,39,85,0,1698789925,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1698789881,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1698789881,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1698789881,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1698789881,"~/.vimrc"
--'  96  0  ~/.vimrc
-|4,39,96,0,1698789880,"~/.vimrc"
--'  96  0  ~/.vimrc
-|4,39,96,0,1698789880,"~/.vimrc"
--'  96  0  ~/.vimrc
-|4,39,96,0,1698789880,"~/.vimrc"
--'  96  0  ~/.vimrc
-|4,39,96,0,1698789880,"~/.vimrc"
--'  10  0  ~/.vimrc
-|4,39,10,0,1698789870,"~/.vimrc"
--'  10  0  ~/.vimrc
-|4,39,10,0,1698789870,"~/.vimrc"
--'  10  0  ~/.vimrc
-|4,39,10,0,1698789870,"~/.vimrc"
--'  10  0  ~/.vimrc
-|4,39,10,0,1698789870,"~/.vimrc"
--'  10  0  ~/.vimrc
-|4,39,10,0,1698789870,"~/.vimrc"
--'  10  0  ~/.vimrc
-|4,39,10,0,1698789870,"~/.vimrc"
--'  10  0  ~/.vimrc
-|4,39,10,0,1698789870,"~/.vimrc"
--'  10  0  ~/.vimrc
-|4,39,10,0,1698789870,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1698789867,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1698789867,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1698789867,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1698789867,"~/.vimrc"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  63  3  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,63,3,1698780876,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  2  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,2,0,1698780853,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,1,0,1698780850,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
--'  64  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
-|4,39,64,0,1698778426,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
+-'  1  0  ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst
+|4,39,1,0,1698790005,"~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/documentacion_operativa/nuestros_compromisos/2024_daniel_clavijo.rst"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/vim/NERD_tree_1
+	*	1698796402	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/.vimrc
+	*	1698796397	0
+	"	107	0
+	^	107	38
+	.	107	35
+	+	2	17
+	+	16	36
+	+	14	26
+	+	31	0
+	+	32	0
+	+	28	0
+	+	10	0
+	+	13	18
+	+	10	0
+	+	14	0
+	+	34	0
+	+	43	0
+	+	48	28
+	+	41	14
+	+	37	0
+	+	90	0
+	+	90	56
+	+	91	15
+	+	57	0
+	+	63	12
+	+	66	10
+	+	88	0
+	+	69	0
+	+	68	10
+	+	77	0
+	+	76	0
+	+	81	48
+	+	86	49
+	+	85	67
+	+	72	65
+	+	73	64
+	+	85	0
+	+	87	76
+	+	88	0
+	+	88	4
+	+	88	5
+	+	88	4
+	+	88	5
+	+	76	0
+	+	75	22
+	+	76	0
+	+	89	0
+	+	91	0
+	+	57	3
+	+	88	0
+	+	57	0
+	+	88	0
+	+	89	0
+	+	88	0
+	+	103	0
+	+	92	0
+	+	103	0
+	+	88	0
+	+	90	0
+	+	7	1
+	+	24	27
+	+	11	0
+	+	7	0
+	+	92	0
+	+	103	0
+	+	103	29
+	+	103	0
+	+	103	3
+	+	103	0
+	+	103	1
+	+	103	0
+	+	24	0
+	+	92	0
+	+	96	19
+	+	92	0
+	+	96	1
+	+	24	0
+	+	27	1
+	+	28	27
+	+	96	0
+	+	96	19
+	+	92	0
+	+	96	0
+	+	93	38
+	+	96	0
+	+	97	48
+	+	96	0
+	+	93	0
+	+	95	0
+	+	96	0
+	+	94	35
+	+	43	15
+	+	43	0
+	+	103	15
+	+	103	0
+	+	98	20
+	+	101	20
+	+	98	0
+	+	99	33
+	+	93	0
+	+	94	0
+	+	93	0
+	+	24	0
+	+	93	0
+	+	107	35
+
+> ~/Documents/vim/README.md
+	*	1698795399	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	1	8
+	+	4	0
 
 > ~/Documents/vim/.gitignore
 	*	1698794151	0
@@ -545,112 +658,6 @@ $
 	+	23	25
 	+	24	24
 	+	26	2
-
-> ~/.vimrc
-	*	1698789942	0
-	"	95	0
-	^	95	1
-	.	95	0
-	+	2	0
-	+	6	12
-	+	2	17
-	+	16	36
-	+	14	26
-	+	32	0
-	+	33	0
-	+	29	0
-	+	10	0
-	+	13	18
-	+	10	0
-	+	14	0
-	+	35	0
-	+	44	0
-	+	49	28
-	+	42	14
-	+	38	0
-	+	91	0
-	+	91	56
-	+	92	15
-	+	58	0
-	+	64	12
-	+	67	10
-	+	89	0
-	+	70	0
-	+	69	10
-	+	78	0
-	+	77	0
-	+	82	48
-	+	87	49
-	+	86	67
-	+	73	65
-	+	74	64
-	+	86	0
-	+	88	76
-	+	89	0
-	+	89	4
-	+	89	5
-	+	89	4
-	+	89	5
-	+	77	0
-	+	76	22
-	+	77	0
-	+	90	0
-	+	92	0
-	+	58	3
-	+	89	0
-	+	58	0
-	+	89	0
-	+	90	0
-	+	89	0
-	+	105	0
-	+	93	0
-	+	105	0
-	+	89	0
-	+	91	0
-	+	7	1
-	+	24	27
-	+	11	0
-	+	7	0
-	+	93	0
-	+	105	0
-	+	105	29
-	+	105	0
-	+	105	3
-	+	105	0
-	+	105	1
-	+	105	0
-	+	24	0
-	+	93	0
-	+	98	19
-	+	93	0
-	+	98	1
-	+	24	0
-	+	28	1
-	+	29	27
-	+	98	0
-	+	98	19
-	+	93	0
-	+	98	0
-	+	95	38
-	+	98	0
-	+	99	48
-	+	98	0
-	+	94	0
-	+	95	0
-	+	97	0
-	+	98	0
-	+	96	35
-	+	44	15
-	+	44	0
-	+	105	15
-	+	105	0
-	+	100	20
-	+	103	20
-	+	100	0
-	+	101	33
-	+	95	0
-	+	96	0
-	+	95	0
 
 > ~/Library/CloudStorage/OneDrive-InstitutoTecnologicoydeEstudiosSuperioresdeMonterrey/selectividad/manual_de_operacion/source/conf.py
 	*	1698780875	0
